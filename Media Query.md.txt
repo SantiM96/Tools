@@ -1,0 +1,6 @@
+"media query" : {
+		"prefix" : "mq",
+		"body" : [
+			"@media (min-width: $1px) {\n\t$0\n}"
+		]
+	}
